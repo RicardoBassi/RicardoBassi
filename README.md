@@ -3,6 +3,7 @@
 - 💻 Resident in Artificial Intelligence at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/).
 - 🎓 BSc and MSc in Physics at [UEL](https://portal.uel.br/home/).
 - 🌱 I am currently learning **Python** applied to **Machine Learning** and **Data Science**.
+- 💬 Interested in science, programming, electronics, music, and arts.
 
 ## 
 
