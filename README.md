@@ -7,7 +7,7 @@
 
 ## 
 
-<p align="center"> <a href="https://www.linkedin.com/in/ricardo-de-bassi-611269253/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30" /></a> <a href="mailto:bassidericardo@gmail.com" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" height="30" /></a> <a href="https://discord.com/users/bardukko" target="blank"><img align="center" src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" height="30" /></a> 
+<p align="center"> <a href="https://www.linkedin.com/in/ricardo-de-bassi-611269253/" target="blank"><img align="center" src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" height="30" /></a> <a href="mailto:bassidericardo@gmail.com" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" height="30" /></a> <a href="https://discord.com/users/bardukko" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" height="30" /></a> 
 
 <!--
 **RicardoBassi/RicardoBassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
