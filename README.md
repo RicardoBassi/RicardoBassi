@@ -1,7 +1,7 @@
 ## <p align="center"> Hi 👋, I am Ricardo De Bassi
 
 - 💻 Postgraduate in Artificial Intelligence, completed residency at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/).
-- 🎓 MSc in Physics at [UEL](https://portal.uel.br/home/).
+- 🎓 MSc in Particle Physics at [UEL](https://portal.uel.br/home/).
 - 🌱 Currently delving into **Machine Learning**, **Deep Learning**, **Neural Networks** and **Data Science**, while developing projects for industries and enterprises.
 - 💬 Interested in science, programming, electronics, music, and arts.
 
