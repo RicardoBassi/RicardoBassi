@@ -7,7 +7,7 @@
 
 ## 
 
-<p align="center"> <a href="https://www.linkedin.com/in/ricardo-de-bassi-611269253/" target="blank"><img align="center" src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" height="30" /></a> <a href="mailto:bassidericardo@gmail.com" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" height="30" /></a> <a href="https://discord.com/users/bardukko" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" height="30" /></a> 
+<p align="center"> <a href="https://www.linkedin.com/in/ricardo-de-bassi/" target="blank"><img align="center" src="https://t4.ftcdn.net/jpg/03/60/65/35/360_F_360653587_Cb8CVKwN3qv97h0gAwQ9kxurkZJiuKbx.jpg" height="30" /></a> <a href="mailto:bassidericardo@gmail.com" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" height="30" /></a> <a href="https://discord.com/users/bardukko" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" height="30" /></a> 
 
 <!--
 **RicardoBassi/RicardoBassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
